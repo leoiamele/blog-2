@@ -20,7 +20,12 @@ gem 'turbolinks', '~> 5'
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
+
+#hostea imagenes en la nube
 gem 'cloudinary', '~> 1.9.1'
+
+#crea una inteterface (UI) para que el usuario pueda subir sus fotos
+gem 'carrierwave', '~> 1.2'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
