@@ -25,7 +25,7 @@ gem 'turbolinks', '~> 5'
 gem 'cloudinary', '~> 1.9.1'
 
 #crea una inteterface (UI) para que el usuario pueda subir sus fotos
-gem 'carrierwave', '~> 1.2'
+gem 'carrierwave', '~> 1.3'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
